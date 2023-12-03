@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDMincho&family=Black+Han+Sans&display=swap');
+body{
+    background-color: rgb(236,218,194);
+
+} 
+header {
+    background-color: rgb(250, 253, 249);
+    position:fixed;
+    left:0;
+    right:0;
+    top:5px;
+    height: 67px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    font-size: 20px ;
+
+
+}
+header *{
+    display: inline;
+}
+header li{
+    margin: 30px;
+}
+.text1{
+    text-align: left;
+    padding-top: 40px;
+    font-family: 'Black Han Sans', 'sans-serif';
+    font-size: 55px;
+    padding-left: 5px;
+
+}
+.text2{
+    text-align: left;
+    padding-top:30px;
+    font-size: 30px;
+    font-family: 'BIZ UDMincho', serif;
+}
+.dancer{
+    margin-left: 1500px;
+    width:50px;
+    height: 50px;
+    text-align: right;
+
+}
+
+.Download{
+    width :150px;
+    background-color: rgb(72, 215, 72);
+    color:black;
+    text-align: center;
+    align-items: center;
+    border-radius: 25px;
+    border-style: solid;
+    margin-top: 20px;
+    margin-left: 100px ;
+    margin-right: 10px;
+    padding: 10px 10px;
+    left: 250px;
+    right:100px;
+}
+
+
+
+
